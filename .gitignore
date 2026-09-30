@@ -2,3 +2,6 @@ __pycache__/
 *.pyc
 .env
 .vscode/
+mark_memory.json
+mark_memory.json.tmp
+video_cache/

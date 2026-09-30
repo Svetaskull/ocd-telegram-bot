@@ -1,2 +1,4 @@
 openai
 aiogram
+opencv-python
+imageio-ffmpeg
